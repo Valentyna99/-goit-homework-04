@@ -314,10 +314,15 @@ border: 1px solid #8E8F99;
         text-align: center;
         margin-bottom: 10px;
 }
+
+.container-icon{
+ padding: 32px 0;
+}
+
 .icon-list {
     display: flex;
     justify-content: center;
-    gap: 10px;
+    gap: 24px;
 }
 
 .icon-item {
@@ -341,6 +346,9 @@ border: 1px solid #8E8F99;
    
 
 .icon-link:hover{
+    background-color: #404BBF;
+}
+.icon-link:focus{
     background-color: #404BBF;
 }
 
