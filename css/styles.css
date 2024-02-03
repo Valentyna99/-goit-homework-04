@@ -157,6 +157,7 @@ color: #404bbf;
     background-position: center;
     background-size: cover;
     padding: 188px 0;
+    max-width: 1440px;
 }
 
 .hero-title {
@@ -187,6 +188,7 @@ color: #404bbf;
                 border-radius: 4px;
                 margin: 0 auto;
                 margin-top: 48px;
+                transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
                
         
       
