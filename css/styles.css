@@ -487,6 +487,10 @@ color: #F4F4FD;
     background-color: #31D0AA;
 }
 
+.footer-icon-link:focus {
+    background-color: #31D0AA;
+}
+
 .footer-icon-icon{
     fill: #F4F4FD;
 }
@@ -512,7 +516,7 @@ color: #F4F4FD;
 
 .footer-wrapper{
 display: flex;
-align-items: center;
+align-items: baseline;
 }
 
 .footer-icon-list{
