@@ -88,6 +88,11 @@ a{
  color: #404bbf;
 }
 
+.header-menu-item.studio{
+    color: #404bbf;
+}
+
+
 .header-menu-link  {
     color: #2E2F42;
         font-size: 16px;
