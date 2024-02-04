@@ -88,10 +88,6 @@ a{
  color: #404bbf;
 }
 
-.header-menu-item.studio{
-    color: #404bbf;
-}
-
 
 .header-menu-link  {
     color: #2E2F42;
@@ -105,6 +101,7 @@ a{
 }
 .current{
 position: relative;
+color: #404bbf
 }
 .current::after{
 content: "";
