@@ -445,7 +445,7 @@ margin-bottom: 72px;
         letter-spacing: 0.02em;
 }
 
-.portfolio-text:hover{
+.portfolio-text-cover:hover{
     transform: translateY(0%);
 }
 /* Footer */
