@@ -395,7 +395,7 @@ margin-bottom: 72px;
         
 }
 
-.portfolio-list:hover .portfolio-text-cover{
+.portfolio-item:hover .portfolio-text-cover{
 transform: translateY(0%);
 }
 
