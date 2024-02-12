@@ -395,7 +395,7 @@ margin-bottom: 72px;
         
 }
 
-.portfolio-item:hover{
+.portfolio-list:hover{
 transform: translateY(0%);
 }
 
