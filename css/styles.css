@@ -392,6 +392,7 @@ margin-bottom: 72px;
       box-shadow: 0px 1px 6px rgba(46, 47, 66, 0.08),
         0px 1px 1px rgba(46, 47, 66, 0.16),
         0px 2px 1px rgba(46, 47, 66, 0.08);
+        transform: translateY(0%);
 }
 
 .portfolio-container:hover{
@@ -445,9 +446,7 @@ margin-bottom: 72px;
         letter-spacing: 0.02em;
 }
 
-.portfolio-text-cover:hover{
-    transform: translateY(0%);
-}
+
 /* Footer */
 .footer{
     background:  #2E2F42;
